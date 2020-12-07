@@ -10,6 +10,6 @@ function onLoad(event) {
       onFail(event);
     } else {
       var json = JSON.parse(this.responseText);
-      print(json);
+      document.write(json);
     }
 }
