@@ -1,0 +1,17 @@
+[
+   {
+      "name":"Alice",
+      "age":20,
+      "color":"red"
+   },
+   {
+      "name":"Bob",
+      "age":10,
+      "color":"green"
+   },
+   {
+      "name":"Charlie",
+      "age":30,
+      "color":"blue"
+   }
+]
