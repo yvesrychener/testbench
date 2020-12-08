@@ -1,3 +1,4 @@
 {
-   "text" : "Text supplied in the JSON file"
+   "text" : "Text supplied in the JSON file",
+   "text2" : "text2 supplied in JSON file"
 }
