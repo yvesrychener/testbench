@@ -1,1 +1,12 @@
-{"age":{"Alice":15,"Bob":14,"Charlie":19},"color":{"Alice":"red","Bob":"blue","Charlie":"green"}}
+{
+   "age":{
+      "Alice":15,
+      "Bob":14,
+      "Charlie":19
+   },
+   "color":{
+      "Alice":"red",
+      "Bob":"blue",
+      "Charlie":"green"
+   }
+}
